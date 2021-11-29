@@ -1,4 +1,4 @@
-# ------------------------------------- https://github.com/m4mallu/ashesOFpheonix -------------------------------------#
+# ------------------------------------- https://github.com/zmraj/AutoforwardALLinONE -------------------------------------#
 
 class Translation( object ):
     NOT_AUTH_TXT = "⚠️ <b>Unauthorized Access</b> ⚠️\nYou are not in Auth Users.  So you can't use the core " \
@@ -10,9 +10,9 @@ class Translation( object ):
     SAVED_RECVD_DOC_FILE = "<b>✔️ Media Downloaded Successfully</b>"
     ACCESS_DENIED_TEXT = "You are not authorized to use this Bot."
     START_TEXT = "Hello.. <b>{}</b>\n\n<b>Myself:</b> {}\n\n<b>I can do a lot of things in your Chats</b> 😀\n\n" \
-                 "<b>My Author is: </b><a href='https://t.me/space4renjith'>                HERE</a>\n" \
-                 "<b>My code can be seen: </b><a href='https://github.com/m4mallu/ashesOFpheonix'> HERE</a>\n" \
-                 "<b>You can see my help: </b><a href='https://telegra.ph/How-to-use-the-Bot-02-20'>  HERE</a>\n\n" \
+                 "<b>My Author is: </b><a href='https://t.me/LallanMovies'>                HERE</a>\n" \
+                 "<b>My code can be seen: </b><a href='https://github.com'> HERE</a>\n" \
+                 "<b>You can see my help: </b><a href='https://t.me/LallanMovies'>  HERE</a>\n\n" \
                  "<i> Have a nice day</i> 😍"
     SETTINGS_TEXT = "<b>These are my available options:</b>"
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap</code><b> DEL THUMB </b><code>if you wish to " \
@@ -29,7 +29,7 @@ class Translation( object ):
                   "check the supported extensions in welcome message !</code> "
     EXTENSIONS = ['.mkv', '.mp4', '.avi', '.webm']
     NO_SPAM_MSG = "⚠️ <b>Don't Spam Here</b>\n<code>Read the welcome message for better use of this bot !</code>"
-    CAPTION_TEXT = "@moviekeralam"
+    CAPTION_TEXT = "📍 @LallanMovies 📍"
     TRIM_WAIT = "<b>Attention</b>⚠️\n<code>Please Wait some time for a sample video. Be patient</code> 🤪"
     THANKS_MESSAGE = "<b>Thanks for using me. Have a nice day !</b>"
     MAKE_A_COPY_TEXT = "📚 <b> Can i make a copy of the same ?</b>"
@@ -39,10 +39,10 @@ class Translation( object ):
                   "problem persists, May be your server IP got blocked by the YouTube </code>😔 "
     PROCESS_START = "Processing Youtube Url 🔎 🔎 🔎"
 
-    CUSTOM_CAPTION_DOC = "💢<a href='https://t.me/Moviekeralam'>@MovieKeralam</a>💢\n" \
-                         "💢<a href='https://t.me/MoviekeralamLinks'>@MovieKeralamLinks</a>💢"
-    CUSTOM_CAPTION_VIDEO = "💢<a href='https://t.me/Moviekeralam'>@MovieKeralam</a>💢\n" \
-                           "💢<a href='https://t.me/MoviekeralamLinks'>@MovieKeralamLinks</a>💢"
+    CUSTOM_CAPTION_DOC = "💢<a href='https://t.me/LallanMovies'>@LallanMovies</a>💢\n" \
+                         "💢<a href='https://t.me/LallanMovies'>@LallanMovies</a>💢"
+    CUSTOM_CAPTION_VIDEO = "💢<a href='https://t.me/LallanMovies'>@LallanMovies</a>💢\n" \
+                           "💢<a href='https://t.me/LallanMovies'>@LallanMovies</a>💢"
     URL_ERROR = "<b>⚠️ Attention :</b>\nYour URL having some HTTP Errors ! Try with different URL..."
 
     SUCCESSFUL_SEND = "<code>Forwarded Successfully to:</code>\n<b>{}</b>"
