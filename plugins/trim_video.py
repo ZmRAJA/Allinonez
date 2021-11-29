@@ -1,4 +1,4 @@
-#------------------------------------- https://github.com/m4mallu/ashesOFpheonix -------------------------------------#
+#------------------------------------- https://github.com/zmraj/AutoforwardALLinONE -------------------------------------#
 import os
 import time
 import logging
