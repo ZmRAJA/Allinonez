@@ -1,4 +1,4 @@
-#------------------------------------- https://github.com/m4mallu/ashesOFpheonix -------------------------------------#
+#------------------------------------- https://github.com/zmraj/AutoforwardALLinONE -------------------------------------#
 
 from __future__ import unicode_literals
 from pyrogram.types import InlineKeyboardButton
