@@ -1,9 +1,9 @@
 {
-  "name": "pluginsBot",
+  "name": "AutoForwardALLinONE",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": ["telegram", "best", "youtube", "downloader", "open", "source", "file", "formatter", "chat", "uploader"],
-  "website": "https://github.com/m4mallu/ashesOFpheonix",
-  "repository": "https://github.com/m4mallu/ashesOFpheonix",
+  "website": "https://github.com/zmraj/AutoforwardALLinONE",
+  "repository": "https://github.com/zmraj/AutoforwardALLinONE",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
