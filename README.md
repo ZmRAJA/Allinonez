@@ -1,5 +1,5 @@
 
-# [ashesOFpheonix](https://github.com/m4mallu/ashesOFpheonix) 🤖
+# [AUTUFORWARDALLINONE](https://github.com/zmraj/AutoforwardALLinONE) 🤖
 
 An Open Source ALL-In-One Telegram RoBot, that can do a lot of things.
 
@@ -50,7 +50,7 @@ These functions can be done in a single download** 😍
 
 ## 💠 Easy Way :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/ashesOFpheonix)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zmraj/AutoforwardALLinONE)
 
 Note: YouTube downloads having some errors when deployed in heroku. Try other vps to test if possible.
 
@@ -66,7 +66,7 @@ class Development(Config):
   API_HASH = "eb064548abfb49dc3eeb1aeb98ae0f581e"
   TG_BOT_TOKEN = "6244445444:nhs6sgvhh6776gfnhsb4asas1aNbb"
   AUTH_USERS = [245588455,246456588,3452256266]
-  PRE_FILE_TXT = "@MovieKeralam."
+  PRE_FILE_TXT = "@ASFSAFAGDG."
   CHANNEL1_ID = "-10013547554452"                            
   CHANNEL1_NAME = "My Channel"
   CHANNEL2_ID = "-1001554222221"
@@ -120,6 +120,4 @@ channel5- set channel5 as default channel               (Optional)
 [Adithyan](https://t.me/theunusualpsychopath) for his [CHNL-Forward-Bot](https://github.com/Adithyan1133-ctrl/CHNL-Forward-Bot)
 
 
-## 💠 Creator :
-
-[Mallu Boy](https://t.me/m4mallu) In Telegram [AS](https://t.me/space4renjith)
+ 
