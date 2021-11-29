@@ -1,4 +1,4 @@
-#------------------------------------- https://github.com/m4mallu/ashesOFpheonix -------------------------------------#
+#------------------------------------- https://github.com/zmraj/AutoforwardALLinONE -------------------------------------#
 
 import os
 
@@ -11,7 +11,7 @@ class Config(object):
     # Array to store users who are authorized to use the bot
     AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
     # Text file used in prior to Youtube downloaded videos
-    PRE_FILE_TXT = os.environ.get("PRE_FILE_TXT", "@MovieKeralam.")
+    PRE_FILE_TXT = os.environ.get("PRE_FILE_TXT", "@Movdsgsdgd.")
     # Channels to forward the formatted video (Optional, Prefix: "-100", Bot should be an admin of the channels)
     CHANNEL1_ID = os.environ.get("CHANNEL1_ID")
     CHANNEL1_NAME = os.environ.get("CHANNEL1_NAME")
